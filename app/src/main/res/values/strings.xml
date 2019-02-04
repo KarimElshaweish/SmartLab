@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">المعمل الذكى</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="forget_password">نسيت كلمة المرور</string>
+    <string name="Home">الرئسية</string>
+    <string name="courtins">الستائر</string>
+</resources>
